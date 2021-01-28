@@ -21,7 +21,7 @@ Se proveen dos archivos para realizar *pruebas*.
 
 nyse_2012.csv, delimitado por comas, con cabecera. El parquet de salida debe estar particionado por una columna extra, llamada partition_date y cuyo valor viene dado por parámetro.
 
-nyse_2012_ts.csv, de ancho fijo, sin cabecera y con las siguientes longitudes de columnas:
+nyse_2012_ts.txt, de ancho fijo, sin cabecera y con las siguientes longitudes de columnas:
 
 |columna|tipo de dato|longitud|
 | ------------- | ------------- | ------------- |
